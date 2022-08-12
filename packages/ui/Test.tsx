@@ -12,6 +12,6 @@ const Styled = styled.div`
   background: pink;
 `
 
-const Test = () => <Styled>1235677 test changeset</Styled>
+const Test = () => <Styled>1235677 test changeset new version</Styled>
 
 export default Test
