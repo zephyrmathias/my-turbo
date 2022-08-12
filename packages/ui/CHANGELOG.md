@@ -1,5 +1,11 @@
 # ui
 
+## 6.0.0
+
+### Major Changes
+
+- test major version
+
 ## 5.0.0
 
 ### Major Changes
